@@ -12,7 +12,6 @@ const Styles = styled.div`
     position: relative;
     z-index: -2;
   }
-
   .overlay {
     background-color: #1b1bcd;
     oapcity: 0.6;

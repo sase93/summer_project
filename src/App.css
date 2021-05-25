@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-dark {
+  background-color: #0c0032;
+}
+
+.hdHlNY .navbar {
+  background-color: #0c0032;
+}
+
+.hdHlNY a,
+.hdHlNY .navbar-brand,
+.hdHlNY .navbar-nav .nav-link {
+  color: white;
+}

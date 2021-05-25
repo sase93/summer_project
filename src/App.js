@@ -8,8 +8,11 @@ import { Contact } from "./pages/Contact";
 import { NoMatch } from "./pages/NoMatch";
 import { Layout } from "./components/Layout";
 import { Jumbotron } from "./components/Jumbotron";
-// import { Footer } from "./components/Footer";
+import Footer from "./components/Footer";
 import { NavigationBar } from "./components/NavigationBar";
+import Club from "./pages/Club";
+import Schedule from "./pages/Schedule";
+import Store from "./pages/Store";
 
 class App extends Component {
   render() {
@@ -21,12 +24,16 @@ class App extends Component {
           <Layout>
             <Switch>
               <Route exact path="/" component={Home} />
+              <Route exact path="/club" component={Club} />
+              <Route exact path="/schedule" component={Schedule} />
               <Route exact path="/about" component={About} />
               <Route exact path="/instructors" component={Instructors} />
               <Route exact path="/contact" component={Contact} />
+              <Route exact path="/store" component={Store} />
               <Route component={NoMatch} />
             </Switch>
           </Layout>
+          <Footer />
         </Router>
       </React.Fragment>
     );
