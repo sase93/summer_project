@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-dark {
+  background-color: #0c0032 !important;
+}
+
+.iGULvN .navbar {
+  background-color: #0c0032 !important;
+}
+
+.iGULvN a,
+.iGULvN .navbar-brand,
+.iGULvN .navbar-nav .nav-link {
+  color: white !important;
+}
