@@ -38,15 +38,15 @@
 }
 
 .bg-dark {
-  background-color: #0c0032;
+  background-color: #0c0032 !important;
 }
 
-.hdHlNY .navbar {
-  background-color: #0c0032;
+.iGULvN .navbar {
+  background-color: #0c0032 !important;
 }
 
-.hdHlNY a,
-.hdHlNY .navbar-brand,
-.hdHlNY .navbar-nav .nav-link {
-  color: white;
+.iGULvN a,
+.iGULvN .navbar-brand,
+.iGULvN .navbar-nav .nav-link {
+  color: white !important;
 }
