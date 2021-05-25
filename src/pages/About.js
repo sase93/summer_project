@@ -5,7 +5,7 @@ export const About = () => (
     <h2>About page</h2>
     <h2>hello from Samu!</h2>
     <p>
-      Lorizzle things dolor sizzle amizzle, shut the shizzle up adipiscing elit.
+      HEIDI MUISTAA MENNÄ OIKEESEEN KANSIOON EIKÖ VAAN..., shut the shizzle up adipiscing elit.
       Nullizzle crazy velit, yo volutpizzle, suscipizzle quis, fo shizzle vel,
       arcu. Pellentesque boofron tortor. Things tellivizzle. I'm in the shizzle
       izzle dolizzle fizzle bizzle tempus owned. Mauris black nibh izzle pizzle.
