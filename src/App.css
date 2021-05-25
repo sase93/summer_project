@@ -50,3 +50,7 @@
 .iGULvN .navbar-nav .nav-link {
   color: white !important;
 }
+
+.container {
+  padding-bottom: 150px;
+}
