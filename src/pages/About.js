@@ -3,6 +3,7 @@ import React from "react";
 export const About = () => (
   <div>
     <h2>About page</h2>
+    <h2>hello from Samu!</h2>
     <p>
       Lorizzle things dolor sizzle amizzle, shut the shizzle up adipiscing elit.
       Nullizzle crazy velit, yo volutpizzle, suscipizzle quis, fo shizzle vel,
