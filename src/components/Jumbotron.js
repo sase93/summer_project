@@ -1,11 +1,11 @@
 import React from "react";
 import { Jumbotron as Jumbo, Container } from "react-bootstrap";
 import styled from "styled-components";
-import handsImage from "../assets/img/handsImage.jpg";
+import taekwondoImage from "../assets/img/taekwondoImage.jpg";
 
 const Styles = styled.div`
   .jumbo {
-    // background: url(${handsImage}) no-repeat fixed bottom;
+    // background: url(${taekwondoImage}) no-repeat fixed bottom;
     background-size: cover;
     color: #ccc;
     height: 200px;
