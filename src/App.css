@@ -50,3 +50,30 @@
 .iGULvN .navbar-nav .nav-link {
   color: white !important;
 }
+
+.container {
+  padding-bottom: 150px;
+}
+
+.card-deck {
+  margin-bottom: 30px;
+}
+
+.cardbodybottom {
+  background-color: #0c0032;
+  border-bottom-left-radius: calc(0.25rem - 1px);
+  border-bottom-right-radius: calc(0.25rem - 1px);
+}
+
+.card-link {
+  color: white;
+}
+
+a:hover {
+  color: #3500d3;
+  text-decoration: underline;
+}
+
+.card {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

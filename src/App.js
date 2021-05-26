@@ -3,7 +3,7 @@ import "./App.css";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Home } from "./pages/Home";
 import { About } from "./pages/About";
-import { Instructors } from "./pages/Instructors";
+import Instructors from "./pages/Instructors";
 import { Contact } from "./pages/Contact";
 import { NoMatch } from "./pages/NoMatch";
 import { Layout } from "./components/Layout";

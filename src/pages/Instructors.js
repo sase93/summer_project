@@ -1,8 +1,12 @@
-import React from "react";
+import React from 'react';
+import Cards from "../components/Cards";
 
-export const Instructors = () => (
-  <div>
-    <h2>Kouluttajat</h2>
-    <p>Kouluttajien naamakirja + about</p>
-  </div>
-);
+const Instructors = () => {
+  return (
+    <div>
+      <Cards />
+    </div>
+  );
+};
+
+export default Instructors;
